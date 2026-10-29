@@ -18,6 +18,14 @@ http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 group-title="Cartoons",Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 
-
 #EXTINF:-1 group-title="Cartoons",Nickelodeon Pluto
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF :- 1 tvg-id="tagalized-movie-channel"
+tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="Cplay2", TMC (Tagalized
+Movie Channel)
+#KODIPROP:inputstream.adaptive. license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca29312
+11c1a261f082a3a2c4fd9f91b
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/
+index.mpd
